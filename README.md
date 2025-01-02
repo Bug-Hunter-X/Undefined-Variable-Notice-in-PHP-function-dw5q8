@@ -1,0 +1,2 @@
+# PHP Undefined Variable Notice
+This repository demonstrates a common PHP error: an undefined variable notice. The `buggyFunction` attempts to use the `$i` variable within the loop without initializing it. This leads to a notice. The solution shows how to correctly initialize `$i` to avoid this error.
